@@ -4,6 +4,7 @@
 
 ### Week2 
 - (Assignment#1) 평균, 표준편차, 중앙값, 최댓값, 최솟값 정의 함수 완성
+- week_1_1.txt()
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/87689529/176363615-be80cb39-c6cf-4f4f-ab14-ed512ac37e9f.png">
 
 - (Assignment#2) 거리가 가까운 좌표 계산 
