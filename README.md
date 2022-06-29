@@ -94,7 +94,7 @@
 
 
 ### Week14
-- [(Final Project)](https://github.com/hwangsaeyeon/Computational-Thinking-Programming-and-Application/final project) 웹크롤링: 잡플래닛 데이터 분석 공고 
+- [(Final Project)](https://github.com/hwangsaeyeon/Computational-Thinking-Programming-and-Application/final-project) 웹크롤링: 잡플래닛 데이터 분석 공고 
 <img width="514" alt="image" src="https://user-images.githubusercontent.com/87689529/176365340-4491508d-0152-48b0-a0b8-f67600d41920.png">
 <img width="510" alt="image" src="https://user-images.githubusercontent.com/87689529/176365384-86f8717a-9ec3-40ad-a969-5d835938317f.png">
 <img width="512" alt="image" src="https://user-images.githubusercontent.com/87689529/176365220-6902168f-2fd5-4b72-9bb6-452d99a887b7.png">
