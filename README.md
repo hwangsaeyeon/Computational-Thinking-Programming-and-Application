@@ -1,1 +1,1 @@
-# python-programming
+# 컴퓨팅사고와 응용 
