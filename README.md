@@ -2,6 +2,7 @@
 - 성균관대학교 2021-1학기 수강, 박은일 교수님
 - 과제 업로드용 (Only Programming Assignments) 
 - 최종 석차 2등, 과제 만점, 기말 (46/60, avg:42.3) + self exam
+- 무단 배포 및 사용하지 말아주세요. 책임 못집니다..
 
 ### Week2 
 - [(Assignment#1)](https://github.com/hwangsaeyeon/Computational-Thinking-Programming-and-Application/blob/b16f436193ac05bc055158bec2c31d6e845990fe/week02_01.py) 평균, 표준편차, 중앙값, 최댓값, 최솟값 정의 함수 완성
